@@ -7,7 +7,7 @@
 
 >[LearnShare](http://xianbai.me/learn-md/index.html)(<http://xianbai.me/learn-md/index.html>)
 
-#### 注：因为Mark down 兼容HTML的标签，所以HTML的相关功能标签不再赘述
+#### 注：因为Mark down 兼容HTML的标签，所以HTML的相关功能标签不再赘述
 
 # **目录**
 ## 正文目录
