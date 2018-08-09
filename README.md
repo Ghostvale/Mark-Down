@@ -14,6 +14,8 @@
 * ###  [标题](./content/title.md)
 * ###  [段落](./content/paragraph.md) 
 * ###  [引用](./content/quote.md)
+* ###  [列表](./content/list.md)
+* ###  [代码](./content/code.md)
 
 
 
