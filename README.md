@@ -16,6 +16,8 @@
 * ###  [引用](./content/quote.md)
 * ###  [列表](./content/list.md)
 * ###  [代码](./content/code.md)
+* ###  [分隔线](./content/hr.md)
+* ###  [强调](./content/emphasize.md)
 
 
 
