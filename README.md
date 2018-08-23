@@ -18,6 +18,8 @@
 * ###  [代码](./content/code.md)
 * ###  [分隔线](./content/hr.md)
 * ###  [强调](./content/emphasize.md)
+* ###  [超链接](./content/hyperlink.md)
+* ###  [图片](./content/image.md)
 
 
 
