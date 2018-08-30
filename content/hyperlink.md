@@ -23,7 +23,7 @@
 ### 一. \[link text][标志符]   
 ### 二. \[标志符]: URL "title text"
 
-> 普通链接:  [google][1]  
+> 普通链接:  [google][1]  
 > 本地文件链接: [图片][2]
 >  
 > \[1]: http://www.google.com "google"  
@@ -31,7 +31,7 @@
 
 ### 效果：
 
-> 普通链接:  [google][1]  
+> 普通链接:  [google][1]  
 > 本地文件链接: [图片][2]
 >  
 > [1]: http://www.google.com "google"
@@ -47,7 +47,7 @@
 ---------
 <br><br>
 
-### 3. 被<>包括起来的URL和邮箱地址会自动转化为超链接 
+### 3. 被<>包括起来的URL和邮箱地址会自动转化为超链接 
 
 > \<http://www.google.com>  
 > \<myemail@email.com>
