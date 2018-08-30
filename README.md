@@ -22,7 +22,7 @@
 * ###  [图片](./content/image.md)
 * ###  [特殊符号](./content/symbol.md)
 * ###  [代码块与高亮](./content/codehightlight.md)
-* ###  [表格](.content/form.md)
+* ###  [表格](./content/form.md)
 
 
 
